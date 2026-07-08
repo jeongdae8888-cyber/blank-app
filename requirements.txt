@@ -1,1 +1,4 @@
-streamlit
+PySide6
+opencv-python
+numpy
+pyinstaller
